@@ -1,0 +1,33 @@
+# Base libraries
+streamlit>=1.22.0
+pandas>=1.5.3
+numpy==1.26.4
+matplotlib>=3.7.1
+seaborn>=0.12.2
+spacy
+
+# ML libraries
+scikit-learn>=1.2.2
+scikit-multilearn>=0.2.0
+gensim>=4.3.0
+scipy==1.12
+
+# Network visualization
+networkx>=3.0
+pyvis>=0.3.2
+
+# Interactive visualization
+plotly>=5.13.0
+
+# NLP utilities
+nltk>=3.8.1
+lavenshtein>=0.1.4
+
+# Utilities
+pillow>=9.4.0
+requests>=2.28.2
+
+# Local package
+./id_nusantara-1.1.tar.gz
+
+python-crfsuite>=0.9.8
